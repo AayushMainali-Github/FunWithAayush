@@ -1,0 +1,50 @@
+.areyouahuman {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #fce0c4;
+  text-align: center;
+}
+
+.areyouahuman > .head {
+  padding: 0 10px;
+  font-size: 28px;
+  font-weight: 500;
+  margin: 10px 0 20px;
+  cursor: pointer;
+  text-shadow:
+    1px -1.2px 2px#ff00ff,
+    -1px 1.2px 2px #00ffff;
+}
+
+.areyouahuman > .desc1 {
+  padding: 0 10px;
+  font-weight: 400;
+  font-size: 18px;
+}
+.areyouahuman > .desc2 {
+  padding: 0 10px;
+  font-weight: 400;
+  font-size: 20px;
+}
+.areyouahuman > .desc2 > span {
+  font-weight: 700;
+}
+.areyouahuman > .start {
+  margin-top: 50px;
+  font-size: 22px;
+  font-weight: 600;
+  border: 3px solid black;
+  padding: 5px 25px;
+  outline: 0;
+  background-color: rgba(0, 0, 0, 0);
+  cursor: pointer;
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
+  transition: all 0.5s;
+}
+.areyouahuman > .start:hover {
+  background-color: rgba(128, 128, 128, 0.37);
+}

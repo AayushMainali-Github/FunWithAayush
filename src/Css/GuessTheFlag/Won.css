@@ -1,0 +1,27 @@
+.won {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  align-items: center;
+}
+.won > .desc {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.won > button {
+  background-color: rgba(0, 0, 0, 0);
+  outline: 0;
+  font-size: 18px;
+  padding: 8px 30px;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 20px;
+  transition: background 0.5s;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.won > button:hover {
+  background: rgba(169, 169, 169, 0.315);
+}

@@ -1,0 +1,14 @@
+.guesstheflag {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #fffae9;
+}
+
+.guesstheflag > .head {
+  font-size: 28px;
+  font-weight: 500;
+  margin: 10px 0;
+  cursor: pointer;
+}

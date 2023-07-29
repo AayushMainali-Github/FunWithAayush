@@ -1,0 +1,31 @@
+.lost {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  align-items: center;
+}
+.lost > .desc {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.lost > .score {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+
+.lost > button {
+  background-color: rgba(0, 0, 0, 0);
+  outline: 0;
+  font-size: 18px;
+  padding: 8px 30px;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 20px;
+  transition: background 0.5s;
+  font-weight: 500;
+}
+.lost > button:hover {
+  background: rgba(169, 169, 169, 0.315);
+}

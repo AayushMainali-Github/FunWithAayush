@@ -1,0 +1,774 @@
+[
+  {
+    "name": "Afghanistan",
+    "link": "https://flagpedia.net/data/flags/h80/af.webp"
+  },
+  {
+    "name": "Albania",
+    "link": "https://flagpedia.net/data/flags/h80/al.webp"
+  },
+  {
+    "name": "Algeria",
+    "link": "https://flagpedia.net/data/flags/h80/dz.webp"
+  },
+  {
+    "name": "Andorra",
+    "link": "https://flagpedia.net/data/flags/h80/ad.webp"
+  },
+  {
+    "name": "Angola",
+    "link": "https://flagpedia.net/data/flags/h80/ao.webp"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "link": "https://flagpedia.net/data/flags/h80/ag.webp"
+  },
+  {
+    "name": "Argentina",
+    "link": "https://flagpedia.net/data/flags/h80/ar.webp"
+  },
+  {
+    "name": "Armenia",
+    "link": "https://flagpedia.net/data/flags/h80/am.webp"
+  },
+  {
+    "name": "Australia",
+    "link": "https://flagpedia.net/data/flags/h80/au.webp"
+  },
+  {
+    "name": "Austria",
+    "link": "https://flagpedia.net/data/flags/h80/at.webp"
+  },
+  {
+    "name": "Azerbaijan",
+    "link": "https://flagpedia.net/data/flags/h80/az.webp"
+  },
+  {
+    "name": "Bahamas",
+    "link": "https://flagpedia.net/data/flags/h80/bs.webp"
+  },
+  {
+    "name": "Bahrain",
+    "link": "https://flagpedia.net/data/flags/h80/bh.webp"
+  },
+  {
+    "name": "Bangladesh",
+    "link": "https://flagpedia.net/data/flags/h80/bd.webp"
+  },
+  {
+    "name": "Barbados",
+    "link": "https://flagpedia.net/data/flags/h80/bb.webp"
+  },
+  {
+    "name": "Belarus",
+    "link": "https://flagpedia.net/data/flags/h80/by.webp"
+  },
+  {
+    "name": "Belgium",
+    "link": "https://flagpedia.net/data/flags/h80/be.webp"
+  },
+  {
+    "name": "Belize",
+    "link": "https://flagpedia.net/data/flags/h80/bz.webp"
+  },
+  {
+    "name": "Benin",
+    "link": "https://flagpedia.net/data/flags/h80/bj.webp"
+  },
+  {
+    "name": "Bhutan",
+    "link": "https://flagpedia.net/data/flags/h80/bt.webp"
+  },
+  {
+    "name": "Bolivia",
+    "link": "https://flagpedia.net/data/flags/h80/bo.webp"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "link": "https://flagpedia.net/data/flags/h80/ba.webp"
+  },
+  {
+    "name": "Botswana",
+    "link": "https://flagpedia.net/data/flags/h80/bw.webp"
+  },
+  {
+    "name": "Brazil",
+    "link": "https://flagpedia.net/data/flags/h80/br.webp"
+  },
+  {
+    "name": "Brunei",
+    "link": "https://flagpedia.net/data/flags/h80/bn.webp"
+  },
+  {
+    "name": "Bulgaria",
+    "link": "https://flagpedia.net/data/flags/h80/bg.webp"
+  },
+  {
+    "name": "Burkina Faso",
+    "link": "https://flagpedia.net/data/flags/h80/bf.webp"
+  },
+  {
+    "name": "Burundi",
+    "link": "https://flagpedia.net/data/flags/h80/bi.webp"
+  },
+  {
+    "name": "Cambodia",
+    "link": "https://flagpedia.net/data/flags/h80/kh.webp"
+  },
+  {
+    "name": "Cameroon",
+    "link": "https://flagpedia.net/data/flags/h80/cm.webp"
+  },
+  {
+    "name": "Canada",
+    "link": "https://flagpedia.net/data/flags/h80/ca.webp"
+  },
+  {
+    "name": "Cape Verde",
+    "link": "https://flagpedia.net/data/flags/h80/cv.webp"
+  },
+  {
+    "name": "Central African Republic",
+    "link": "https://flagpedia.net/data/flags/h80/cf.webp"
+  },
+  {
+    "name": "Chad",
+    "link": "https://flagpedia.net/data/flags/h80/td.webp"
+  },
+  {
+    "name": "Chile",
+    "link": "https://flagpedia.net/data/flags/h80/cl.webp"
+  },
+  {
+    "name": "China",
+    "link": "https://flagpedia.net/data/flags/h80/cn.webp"
+  },
+  {
+    "name": "Colombia",
+    "link": "https://flagpedia.net/data/flags/h80/co.webp"
+  },
+  {
+    "name": "Comoros",
+    "link": "https://flagpedia.net/data/flags/h80/km.webp"
+  },
+  {
+    "name": "Republic of the Congo",
+    "link": "https://flagpedia.net/data/flags/h80/cg.webp"
+  },
+  {
+    "name": "DR Congo",
+    "link": "https://flagpedia.net/data/flags/h80/cd.webp"
+  },
+  {
+    "name": "Costa Rica",
+    "link": "https://flagpedia.net/data/flags/h80/cr.webp"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "link": "https://flagpedia.net/data/flags/h80/ci.webp"
+  },
+  {
+    "name": "Croatia",
+    "link": "https://flagpedia.net/data/flags/h80/hr.webp"
+  },
+  {
+    "name": "Cuba",
+    "link": "https://flagpedia.net/data/flags/h80/cu.webp"
+  },
+  {
+    "name": "Cyprus",
+    "link": "https://flagpedia.net/data/flags/h80/cy.webp"
+  },
+  {
+    "name": "Czechia",
+    "link": "https://flagpedia.net/data/flags/h80/cz.webp"
+  },
+  {
+    "name": "Denmark",
+    "link": "https://flagpedia.net/data/flags/h80/dk.webp"
+  },
+  {
+    "name": "Djibouti",
+    "link": "https://flagpedia.net/data/flags/h80/dj.webp"
+  },
+  {
+    "name": "Dominica",
+    "link": "https://flagpedia.net/data/flags/h80/dm.webp"
+  },
+  {
+    "name": "Dominican Republic",
+    "link": "https://flagpedia.net/data/flags/h80/do.webp"
+  },
+  {
+    "name": "Ecuador",
+    "link": "https://flagpedia.net/data/flags/h80/ec.webp"
+  },
+  {
+    "name": "Egypt",
+    "link": "https://flagpedia.net/data/flags/h80/eg.webp"
+  },
+  {
+    "name": "El Salvador",
+    "link": "https://flagpedia.net/data/flags/h80/sv.webp"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "link": "https://flagpedia.net/data/flags/h80/gq.webp"
+  },
+  {
+    "name": "Eritrea",
+    "link": "https://flagpedia.net/data/flags/h80/er.webp"
+  },
+  {
+    "name": "Estonia",
+    "link": "https://flagpedia.net/data/flags/h80/ee.webp"
+  },
+  {
+    "name": "Eswatini",
+    "link": "https://flagpedia.net/data/flags/h80/sz.webp"
+  },
+  {
+    "name": "Ethiopia",
+    "link": "https://flagpedia.net/data/flags/h80/et.webp"
+  },
+  {
+    "name": "Fiji",
+    "link": "https://flagpedia.net/data/flags/h80/fj.webp"
+  },
+  {
+    "name": "Finland",
+    "link": "https://flagpedia.net/data/flags/h80/fi.webp"
+  },
+  {
+    "name": "France",
+    "link": "https://flagpedia.net/data/flags/h80/fr.webp"
+  },
+  {
+    "name": "Gabon",
+    "link": "https://flagpedia.net/data/flags/h80/ga.webp"
+  },
+  {
+    "name": "Gambia",
+    "link": "https://flagpedia.net/data/flags/h80/gm.webp"
+  },
+  {
+    "name": "Georgia",
+    "link": "https://flagpedia.net/data/flags/h80/ge.webp"
+  },
+  {
+    "name": "Germany",
+    "link": "https://flagpedia.net/data/flags/h80/de.webp"
+  },
+  {
+    "name": "Ghana",
+    "link": "https://flagpedia.net/data/flags/h80/gh.webp"
+  },
+  {
+    "name": "Greece",
+    "link": "https://flagpedia.net/data/flags/h80/gr.webp"
+  },
+  {
+    "name": "Grenada",
+    "link": "https://flagpedia.net/data/flags/h80/gd.webp"
+  },
+  {
+    "name": "Guatemala",
+    "link": "https://flagpedia.net/data/flags/h80/gt.webp"
+  },
+  {
+    "name": "Guinea",
+    "link": "https://flagpedia.net/data/flags/h80/gn.webp"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "link": "https://flagpedia.net/data/flags/h80/gw.webp"
+  },
+  {
+    "name": "Guyana",
+    "link": "https://flagpedia.net/data/flags/h80/gy.webp"
+  },
+  {
+    "name": "Haiti",
+    "link": "https://flagpedia.net/data/flags/h80/ht.webp"
+  },
+  {
+    "name": "Honduras",
+    "link": "https://flagpedia.net/data/flags/h80/hn.webp"
+  },
+  {
+    "name": "Hungary",
+    "link": "https://flagpedia.net/data/flags/h80/hu.webp"
+  },
+  {
+    "name": "Iceland",
+    "link": "https://flagpedia.net/data/flags/h80/is.webp"
+  },
+  {
+    "name": "India",
+    "link": "https://flagpedia.net/data/flags/h80/in.webp"
+  },
+  {
+    "name": "Indonesia",
+    "link": "https://flagpedia.net/data/flags/h80/id.webp"
+  },
+  {
+    "name": "Iran",
+    "link": "https://flagpedia.net/data/flags/h80/ir.webp"
+  },
+  {
+    "name": "Iraq",
+    "link": "https://flagpedia.net/data/flags/h80/iq.webp"
+  },
+  {
+    "name": "Ireland",
+    "link": "https://flagpedia.net/data/flags/h80/ie.webp"
+  },
+  {
+    "name": "Israel",
+    "link": "https://flagpedia.net/data/flags/h80/il.webp"
+  },
+  {
+    "name": "Italy",
+    "link": "https://flagpedia.net/data/flags/h80/it.webp"
+  },
+  {
+    "name": "Jamaica",
+    "link": "https://flagpedia.net/data/flags/h80/jm.webp"
+  },
+  {
+    "name": "Japan",
+    "link": "https://flagpedia.net/data/flags/h80/jp.webp"
+  },
+  {
+    "name": "Jordan",
+    "link": "https://flagpedia.net/data/flags/h80/jo.webp"
+  },
+  {
+    "name": "Kazakhstan",
+    "link": "https://flagpedia.net/data/flags/h80/kz.webp"
+  },
+  {
+    "name": "Kenya",
+    "link": "https://flagpedia.net/data/flags/h80/ke.webp"
+  },
+  {
+    "name": "Kiribati",
+    "link": "https://flagpedia.net/data/flags/h80/ki.webp"
+  },
+  {
+    "name": "North Korea",
+    "link": "https://flagpedia.net/data/flags/h80/kp.webp"
+  },
+  {
+    "name": "South Korea",
+    "link": "https://flagpedia.net/data/flags/h80/kr.webp"
+  },
+  {
+    "name": "Kuwait",
+    "link": "https://flagpedia.net/data/flags/h80/kw.webp"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "link": "https://flagpedia.net/data/flags/h80/kg.webp"
+  },
+  {
+    "name": "Laos",
+    "link": "https://flagpedia.net/data/flags/h80/la.webp"
+  },
+  {
+    "name": "Latvia",
+    "link": "https://flagpedia.net/data/flags/h80/lv.webp"
+  },
+  {
+    "name": "Lebanon",
+    "link": "https://flagpedia.net/data/flags/h80/lb.webp"
+  },
+  {
+    "name": "Lesotho",
+    "link": "https://flagpedia.net/data/flags/h80/ls.webp"
+  },
+  {
+    "name": "Liberia",
+    "link": "https://flagpedia.net/data/flags/h80/lr.webp"
+  },
+  {
+    "name": "Libya",
+    "link": "https://flagpedia.net/data/flags/h80/ly.webp"
+  },
+  {
+    "name": "Liechtenstein",
+    "link": "https://flagpedia.net/data/flags/h80/li.webp"
+  },
+  {
+    "name": "Lithuania",
+    "link": "https://flagpedia.net/data/flags/h80/lt.webp"
+  },
+  {
+    "name": "Luxembourg",
+    "link": "https://flagpedia.net/data/flags/h80/lu.webp"
+  },
+  {
+    "name": "Madagascar",
+    "link": "https://flagpedia.net/data/flags/h80/mg.webp"
+  },
+  {
+    "name": "Malawi",
+    "link": "https://flagpedia.net/data/flags/h80/mw.webp"
+  },
+  {
+    "name": "Malaysia",
+    "link": "https://flagpedia.net/data/flags/h80/my.webp"
+  },
+  {
+    "name": "Maldives",
+    "link": "https://flagpedia.net/data/flags/h80/mv.webp"
+  },
+  {
+    "name": "Mali",
+    "link": "https://flagpedia.net/data/flags/h80/ml.webp"
+  },
+  {
+    "name": "Malta",
+    "link": "https://flagpedia.net/data/flags/h80/mt.webp"
+  },
+  {
+    "name": "Marshall Islands",
+    "link": "https://flagpedia.net/data/flags/h80/mh.webp"
+  },
+  {
+    "name": "Mauritania",
+    "link": "https://flagpedia.net/data/flags/h80/mr.webp"
+  },
+  {
+    "name": "Mauritius",
+    "link": "https://flagpedia.net/data/flags/h80/mu.webp"
+  },
+  {
+    "name": "Mexico",
+    "link": "https://flagpedia.net/data/flags/h80/mx.webp"
+  },
+  {
+    "name": "Micronesia",
+    "link": "https://flagpedia.net/data/flags/h80/fm.webp"
+  },
+  {
+    "name": "Moldova",
+    "link": "https://flagpedia.net/data/flags/h80/md.webp"
+  },
+  {
+    "name": "Monaco",
+    "link": "https://flagpedia.net/data/flags/h80/mc.webp"
+  },
+  {
+    "name": "Mongolia",
+    "link": "https://flagpedia.net/data/flags/h80/mn.webp"
+  },
+  {
+    "name": "Montenegro",
+    "link": "https://flagpedia.net/data/flags/h80/me.webp"
+  },
+  {
+    "name": "Morocco",
+    "link": "https://flagpedia.net/data/flags/h80/ma.webp"
+  },
+  {
+    "name": "Mozambique",
+    "link": "https://flagpedia.net/data/flags/h80/mz.webp"
+  },
+  {
+    "name": "Myanmar",
+    "link": "https://flagpedia.net/data/flags/h80/mm.webp"
+  },
+  {
+    "name": "Namibia",
+    "link": "https://flagpedia.net/data/flags/h80/na.webp"
+  },
+  {
+    "name": "Nauru",
+    "link": "https://flagpedia.net/data/flags/h80/nr.webp"
+  },
+  {
+    "name": "Nepal",
+    "link": "https://flagpedia.net/data/flags/h80/np.webp"
+  },
+  {
+    "name": "Netherlands",
+    "link": "https://flagpedia.net/data/flags/h80/nl.webp"
+  },
+  {
+    "name": "New Zealand",
+    "link": "https://flagpedia.net/data/flags/h80/nz.webp"
+  },
+  {
+    "name": "Nicaragua",
+    "link": "https://flagpedia.net/data/flags/h80/ni.webp"
+  },
+  {
+    "name": "Niger",
+    "link": "https://flagpedia.net/data/flags/h80/ne.webp"
+  },
+  {
+    "name": "Nigeria",
+    "link": "https://flagpedia.net/data/flags/h80/ng.webp"
+  },
+  {
+    "name": "North Macedonia",
+    "link": "https://flagpedia.net/data/flags/h80/mk.webp"
+  },
+  {
+    "name": "Norway",
+    "link": "https://flagpedia.net/data/flags/h80/no.webp"
+  },
+  {
+    "name": "Oman",
+    "link": "https://flagpedia.net/data/flags/h80/om.webp"
+  },
+  {
+    "name": "Pakistan",
+    "link": "https://flagpedia.net/data/flags/h80/pk.webp"
+  },
+  {
+    "name": "Palau",
+    "link": "https://flagpedia.net/data/flags/h80/pw.webp"
+  },
+  {
+    "name": "Panama",
+    "link": "https://flagpedia.net/data/flags/h80/pa.webp"
+  },
+  {
+    "name": "Papua New Guinea",
+    "link": "https://flagpedia.net/data/flags/h80/pg.webp"
+  },
+  {
+    "name": "Paraguay",
+    "link": "https://flagpedia.net/data/flags/h80/py.webp"
+  },
+  {
+    "name": "Peru",
+    "link": "https://flagpedia.net/data/flags/h80/pe.webp"
+  },
+  {
+    "name": "Philippines",
+    "link": "https://flagpedia.net/data/flags/h80/ph.webp"
+  },
+  {
+    "name": "Poland",
+    "link": "https://flagpedia.net/data/flags/h80/pl.webp"
+  },
+  {
+    "name": "Portugal",
+    "link": "https://flagpedia.net/data/flags/h80/pt.webp"
+  },
+  {
+    "name": "Qatar",
+    "link": "https://flagpedia.net/data/flags/h80/qa.webp"
+  },
+  {
+    "name": "Romania",
+    "link": "https://flagpedia.net/data/flags/h80/ro.webp"
+  },
+  {
+    "name": "Russia",
+    "link": "https://flagpedia.net/data/flags/h80/ru.webp"
+  },
+  {
+    "name": "Rwanda",
+    "link": "https://flagpedia.net/data/flags/h80/rw.webp"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "link": "https://flagpedia.net/data/flags/h80/kn.webp"
+  },
+  {
+    "name": "Saint Lucia",
+    "link": "https://flagpedia.net/data/flags/h80/lc.webp"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "link": "https://flagpedia.net/data/flags/h80/vc.webp"
+  },
+  {
+    "name": "Samoa",
+    "link": "https://flagpedia.net/data/flags/h80/ws.webp"
+  },
+  {
+    "name": "San Marino",
+    "link": "https://flagpedia.net/data/flags/h80/sm.webp"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "link": "https://flagpedia.net/data/flags/h80/st.webp"
+  },
+  {
+    "name": "Saudi Arabia",
+    "link": "https://flagpedia.net/data/flags/h80/sa.webp"
+  },
+  {
+    "name": "Senegal",
+    "link": "https://flagpedia.net/data/flags/h80/sn.webp"
+  },
+  {
+    "name": "Serbia",
+    "link": "https://flagpedia.net/data/flags/h80/rs.webp"
+  },
+  {
+    "name": "Seychelles",
+    "link": "https://flagpedia.net/data/flags/h80/sc.webp"
+  },
+  {
+    "name": "Sierra Leone",
+    "link": "https://flagpedia.net/data/flags/h80/sl.webp"
+  },
+  {
+    "name": "Singapore",
+    "link": "https://flagpedia.net/data/flags/h80/sg.webp"
+  },
+  {
+    "name": "Slovakia",
+    "link": "https://flagpedia.net/data/flags/h80/sk.webp"
+  },
+  {
+    "name": "Slovenia",
+    "link": "https://flagpedia.net/data/flags/h80/si.webp"
+  },
+  {
+    "name": "Solomon Islands",
+    "link": "https://flagpedia.net/data/flags/h80/sb.webp"
+  },
+  {
+    "name": "Somalia",
+    "link": "https://flagpedia.net/data/flags/h80/so.webp"
+  },
+  {
+    "name": "South Africa",
+    "link": "https://flagpedia.net/data/flags/h80/za.webp"
+  },
+  {
+    "name": "South Sudan",
+    "link": "https://flagpedia.net/data/flags/h80/ss.webp"
+  },
+  {
+    "name": "Spain",
+    "link": "https://flagpedia.net/data/flags/h80/es.webp"
+  },
+  {
+    "name": "Sri Lanka",
+    "link": "https://flagpedia.net/data/flags/h80/lk.webp"
+  },
+  {
+    "name": "Sudan",
+    "link": "https://flagpedia.net/data/flags/h80/sd.webp"
+  },
+  {
+    "name": "Suriname",
+    "link": "https://flagpedia.net/data/flags/h80/sr.webp"
+  },
+  {
+    "name": "Sweden",
+    "link": "https://flagpedia.net/data/flags/h80/se.webp"
+  },
+  {
+    "name": "Switzerland",
+    "link": "https://flagpedia.net/data/flags/h80/ch.webp"
+  },
+  {
+    "name": "Syria",
+    "link": "https://flagpedia.net/data/flags/h80/sy.webp"
+  },
+  {
+    "name": "Tajikistan",
+    "link": "https://flagpedia.net/data/flags/h80/tj.webp"
+  },
+  {
+    "name": "Tanzania",
+    "link": "https://flagpedia.net/data/flags/h80/tz.webp"
+  },
+  {
+    "name": "Thailand",
+    "link": "https://flagpedia.net/data/flags/h80/th.webp"
+  },
+  {
+    "name": "Timor-Leste",
+    "link": "https://flagpedia.net/data/flags/h80/tl.webp"
+  },
+  {
+    "name": "Togo",
+    "link": "https://flagpedia.net/data/flags/h80/tg.webp"
+  },
+  {
+    "name": "Tonga",
+    "link": "https://flagpedia.net/data/flags/h80/to.webp"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "link": "https://flagpedia.net/data/flags/h80/tt.webp"
+  },
+  {
+    "name": "Tunisia",
+    "link": "https://flagpedia.net/data/flags/h80/tn.webp"
+  },
+  {
+    "name": "Turkey",
+    "link": "https://flagpedia.net/data/flags/h80/tr.webp"
+  },
+  {
+    "name": "Turkmenistan",
+    "link": "https://flagpedia.net/data/flags/h80/tm.webp"
+  },
+  {
+    "name": "Tuvalu",
+    "link": "https://flagpedia.net/data/flags/h80/tv.webp"
+  },
+  {
+    "name": "Uganda",
+    "link": "https://flagpedia.net/data/flags/h80/ug.webp"
+  },
+  {
+    "name": "Ukraine",
+    "link": "https://flagpedia.net/data/flags/h80/ua.webp"
+  },
+  {
+    "name": "United Arab Emirates",
+    "link": "https://flagpedia.net/data/flags/h80/ae.webp"
+  },
+  {
+    "name": "United Kingdom",
+    "link": "https://flagpedia.net/data/flags/h80/gb.webp"
+  },
+  {
+    "name": "United States",
+    "link": "https://flagpedia.net/data/flags/h80/us.webp"
+  },
+  {
+    "name": "Uruguay",
+    "link": "https://flagpedia.net/data/flags/h80/uy.webp"
+  },
+  {
+    "name": "Uzbekistan",
+    "link": "https://flagpedia.net/data/flags/h80/uz.webp"
+  },
+  {
+    "name": "Vanuatu",
+    "link": "https://flagpedia.net/data/flags/h80/vu.webp"
+  },
+  {
+    "name": "Venezuela",
+    "link": "https://flagpedia.net/data/flags/h80/ve.webp"
+  },
+  {
+    "name": "Vietnam",
+    "link": "https://flagpedia.net/data/flags/h80/vn.webp"
+  },
+  {
+    "name": "Yemen",
+    "link": "https://flagpedia.net/data/flags/h80/ye.webp"
+  },
+  {
+    "name": "Zambia",
+    "link": "https://flagpedia.net/data/flags/h80/zm.webp"
+  },
+  {
+    "name": "Zimbabwe",
+    "link": "https://flagpedia.net/data/flags/h80/zw.webp"
+  }
+]

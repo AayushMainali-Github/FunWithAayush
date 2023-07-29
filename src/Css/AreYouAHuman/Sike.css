@@ -1,0 +1,24 @@
+.sike {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+  height: 100vh;
+  background-color: #fce0c4;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.sike > .desc1,
+.sike > .desc2,
+.sike > .desc3 {
+  font-size: 20px;
+}
+
+.sike > .desc1 {
+  margin-top: 50px;
+}
+
+.sike > .desc1 > span {
+  font-weight: 600;
+}

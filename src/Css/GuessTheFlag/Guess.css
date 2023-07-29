@@ -1,0 +1,64 @@
+.guess {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.guess > .score {
+  text-align: right;
+  margin: 0 20px 0 auto;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 7.5px 15px;
+  border-radius: 20px;
+  border: 2px solid black;
+}
+
+.guess > .flagMain {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 50px;
+}
+
+.guess > .flagMain > img {
+  border: 1px solid black;
+  height: 120px;
+}
+
+.guess > .flagMain > .options {
+  display: grid;
+  grid-template-columns: 250px 250px;
+  gap: 10px;
+}
+
+.guess > .flagMain > .options > button {
+  background-color: rgba(0, 0, 0, 0);
+  outline: 0;
+  font-size: 15px;
+  padding: 10px 0;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 20px;
+  transition: all 0.5s;
+  font-weight: 500;
+}
+
+.guess > .flagMain > .options > button:hover {
+  background-color: rgba(169, 169, 169, 0.315);
+}
+
+@media screen and (max-width: 600px) {
+  .guess > .flagMain > .options {
+    grid-template-columns: 250px;
+  }
+  .guess > .score {
+    text-align: right;
+    margin: 0 10px 0 auto;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: 2px solid black;
+  }
+}

@@ -1,0 +1,10 @@
+.homelink {
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  align-self: flex-start;
+  text-align: center;
+  padding-left: 1vw;
+  padding-top: 1vw;
+  color: black;
+}
