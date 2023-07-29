@@ -1,1 +1,1 @@
-https://fun-with-aayush.pages.dev/
+https://funwithaayush.pages.dev/
