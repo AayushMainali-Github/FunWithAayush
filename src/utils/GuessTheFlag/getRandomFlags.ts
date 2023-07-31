@@ -1,5 +1,5 @@
-import flags from '../data/flags.json';
-import { FlagData, Option } from '../types/FlagData';
+import flags from '../../data/flags.json';
+import { FlagData, Option } from '../../types/FlagData';
 import { genRanNum, genUniqueRanNum } from './randomNumber';
 export default function getRandomFlags(count: number, options: number): Array<FlagData> {
   //check if enough flags

@@ -1,0 +1,35 @@
+.mysteryqrcode {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #e3f8bd;
+  text-align: center;
+}
+.mysteryqrcode > .desc {
+  font-size: 22px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.mysteryqrcode > .desc1 {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}
+.mysteryqrcode > img {
+  margin-top: 30px;
+  height: 250px;
+}
+
+@media screen and (max-width: 500px) {
+  .mysteryqrcode > .desc {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 25px;
+  }
+  .mysteryqrcode > .desc1 {
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+  }
+}

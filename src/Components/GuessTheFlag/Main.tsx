@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import getRandomFlags from '../../utils/getRandomFlags';
+import getRandomFlags from '../../utils/GuessTheFlag/getRandomFlags';
 import { FlagData } from '../../types/FlagData';
 import Guess from './Guess';
 import Lost from './Lost';
