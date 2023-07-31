@@ -20,45 +20,84 @@ const Canvas = () => {
   ]);
   //canvas setup
   useEffect(() => {
-    let one: HTMLImageElement = new Image();
-    one.src = `/qrcodes/1.png`;
-    let two: HTMLImageElement = new Image();
-    two.src = `/qrcodes/2.png`;
-    let three: HTMLImageElement = new Image();
-    three.src = `/qrcodes/3.png`;
-    let four: HTMLImageElement = new Image();
-    four.src = `/qrcodes/4.png`;
-    let five: HTMLImageElement = new Image();
-    five.src = `/qrcodes/5.png`;
-    let six: HTMLImageElement = new Image();
-    six.src = `/qrcodes/6.png`;
-    let seven: HTMLImageElement = new Image();
-    seven.src = `/qrcodes/7.png`;
-    let eight: HTMLImageElement = new Image();
-    eight.src = `/qrcodes/8.png`;
-    let sources: any = {
-      1: one,
-      2: two,
-      3: three,
-      4: four,
-      5: five,
-      6: six,
-      7: seven,
-      8: eight,
-    };
+    if (!canvasElem.current) return;
 
-    sources["8"].onload = async () => {
-      if (!canvasElem.current) return;
+    //widht and height
+    canvasElem.current.height = canvasSize;
+    canvasElem.current.width = canvasSize;
 
-      //widht and height
-      canvasElem.current.height = canvasSize;
-      canvasElem.current.width = canvasSize;
-
-      //manipulating the canvas
-      const canvas = canvasElem.current.getContext("2d") as CanvasRenderingContext2D;
+    //manipulating the canvas
+    const canvas = canvasElem.current.getContext("2d") as CanvasRenderingContext2D;
+    (async () => {
+      let sources: any = {};
+      let imageloadpromise;
+      let one: HTMLImageElement;
+      let two: HTMLImageElement;
+      let three: HTMLImageElement;
+      let four: HTMLImageElement;
+      let five: HTMLImageElement;
+      let six: HTMLImageElement;
+      let seven: HTMLImageElement;
+      let eight: HTMLImageElement;
+      imageloadpromise = new Promise((resolve) => {
+        one = new Image();
+        one.src = `/qrcodes/1.png`;
+        one.onload = resolve;
+        sources["1"] = one;
+      });
+      await imageloadpromise;
+      imageloadpromise = new Promise((resolve) => {
+        two = new Image();
+        two.src = `/qrcodes/2.png`;
+        two.onload = resolve;
+        sources["2"] = two;
+      });
+      await imageloadpromise;
+      imageloadpromise = new Promise((resolve) => {
+        three = new Image();
+        three.src = `/qrcodes/3.png`;
+        three.onload = resolve;
+        sources["3"] = three;
+      });
+      await imageloadpromise;
+      imageloadpromise = new Promise((resolve) => {
+        four = new Image();
+        four.src = `/qrcodes/4.png`;
+        four.onload = resolve;
+        sources["4"] = four;
+      });
+      await imageloadpromise;
+      imageloadpromise = new Promise((resolve) => {
+        five = new Image();
+        five.src = `/qrcodes/5.png`;
+        five.onload = resolve;
+        sources["5"] = five;
+      });
+      await imageloadpromise;
+      imageloadpromise = new Promise((resolve) => {
+        six = new Image();
+        six.src = `/qrcodes/6.png`;
+        six.onload = resolve;
+        sources["6"] = six;
+      });
+      await imageloadpromise;
+      imageloadpromise = new Promise((resolve) => {
+        seven = new Image();
+        seven.src = `/qrcodes/7.png`;
+        seven.onload = resolve;
+        sources["7"] = seven;
+      });
+      await imageloadpromise;
+      imageloadpromise = new Promise((resolve) => {
+        eight = new Image();
+        eight.src = `/qrcodes/8.png`;
+        eight.onload = resolve;
+        sources["8"] = eight;
+      });
+      await imageloadpromise;
 
       await drawCanvas(canvas, board, canvasSize, sources);
-    };
+    })();
   }, [board, canvasSize]);
 
   //move
