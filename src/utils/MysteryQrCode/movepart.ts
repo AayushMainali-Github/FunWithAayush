@@ -1,5 +1,5 @@
-import { NavigateFunction } from 'react-router-dom';
-import { checkresult } from './checkresult';
+import { NavigateFunction } from "react-router-dom";
+import { checkresult } from "./checkresult";
 
 export function movepart(
   canvasSize: number,
@@ -23,20 +23,20 @@ export function movepart(
 
   let update = false;
   //check if valid
-  if (i + 1 < 3 && board[i + 1][j] === '') {
-    tempboard[i][j] = '';
+  if (i + 1 < 3 && board[i + 1][j] === "") {
+    tempboard[i][j] = "";
     tempboard[i + 1][j] = board[i][j];
     update = true;
-  } else if (i - 1 >= 0 && board[i - 1][j] === '') {
-    tempboard[i][j] = '';
+  } else if (i - 1 >= 0 && board[i - 1][j] === "") {
+    tempboard[i][j] = "";
     tempboard[i - 1][j] = board[i][j];
     update = true;
-  } else if (j + 1 < 3 && board[i][j + 1] === '') {
-    tempboard[i][j] = '';
+  } else if (j + 1 < 3 && board[i][j + 1] === "") {
+    tempboard[i][j] = "";
     tempboard[i][j + 1] = board[i][j];
     update = true;
-  } else if (j - 1 >= 0 && board[i][j - 1] === '') {
-    tempboard[i][j] = '';
+  } else if (j - 1 >= 0 && board[i][j - 1] === "") {
+    tempboard[i][j] = "";
     tempboard[i][j - 1] = board[i][j];
     update = true;
   }
@@ -45,6 +45,6 @@ export function movepart(
   }
 
   if (checkresult(tempboard)) {
-    navigate('/mysteryqrcode/secret');
+    navigate("/mysteryqrcode/secret");
   }
 }

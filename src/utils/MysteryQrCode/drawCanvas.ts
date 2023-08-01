@@ -1,17 +1,17 @@
 import { drawpart } from "./drawpart";
 
-export async function drawCanvas(canvas: CanvasRenderingContext2D, board: Array<Array<string>>, canvasSize: number, sources: any) {
+export function drawCanvas(canvas: CanvasRenderingContext2D, board: Array<Array<string>>, canvasSize: number, qrimg: HTMLImageElement) {
   clearCanvas(canvas, canvasSize);
 
   let boxsize = canvasSize / 3;
   let padding = boxsize / 70;
   //draw board
-  await board.forEach(async (e) => {
-    await e.forEach(async (e1) => {
+  board.forEach((e) => {
+    e.forEach((e1) => {
       let i = board.indexOf(e);
       let j = e.indexOf(e1);
       if (board[i][j] === "") return;
-      await drawpart(canvas, boxsize, padding, board, i, j, sources);
+      drawpart(canvas, boxsize, padding, board, i, j, qrimg);
     });
   });
 }
