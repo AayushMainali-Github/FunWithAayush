@@ -1,0 +1,31 @@
+.whattimeisit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background-color: #fffae9;
+}
+
+.whattimeisit > .head {
+  font-size: 28px;
+  font-weight: 500;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.whattimeisit > .time {
+  text-align: right;
+  margin: 0 20px 0 auto;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 7.5px 15px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .whattimeisit > .time {
+    margin: 0 10px 0 auto;
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+}

@@ -1,5 +1,5 @@
 import React, { MouseEvent } from 'react';
-import { GuessProps } from '../../types/Props';
+import { GuessProps } from '../../types/GuessTheFlagProps';
 import { FlagData, Option } from '../../types/FlagData';
 import '../../Css/GuessTheFlag/Guess.css';
 

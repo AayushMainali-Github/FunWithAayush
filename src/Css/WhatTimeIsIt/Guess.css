@@ -1,0 +1,36 @@
+.guessWTIS {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  gap: 50px;
+}
+
+.guessWTIS > .options {
+  display: grid;
+  grid-template-columns: 250px 250px;
+  gap: 10px;
+}
+
+.guessWTIS > .options > button {
+  background-color: rgba(0, 0, 0, 0);
+  outline: 0;
+  font-size: 15px;
+  padding: 10px 0;
+  cursor: pointer;
+  border: 2px solid black;
+  border-radius: 20px;
+  transition: all 0.5s;
+  font-weight: 500;
+}
+
+.guessWTIS > .options > button:hover {
+  background-color: rgba(169, 169, 169, 0.315);
+}
+
+@media screen and (max-width: 600px) {
+  .guessWTIS > .options {
+    grid-template-columns: 250px;
+  }
+}

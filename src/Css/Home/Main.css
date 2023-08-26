@@ -3,6 +3,7 @@
   align-items: center;
   flex-direction: column;
   padding-top: 20px;
+  height: 100vh;
 }
 .home > .head {
   font-size: 30px;
@@ -15,12 +16,20 @@
   margin-bottom: 100px;
   cursor: pointer;
 }
-.home > .games {
+.home > .body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  gap: 20px;
+}
+.home > .body > .games {
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 20px;
 }
-.home > .games > .link {
+.home > .body > .games > .link {
   border: 2px solid black;
   border-radius: 20px;
   display: flex;
@@ -28,44 +37,42 @@
   align-items: center;
 }
 
-.home > .games > .link > img {
+.home > .body > .games > .link > img {
   border-radius: 20px;
   width: calc(30vw - 50px);
   margin: 4px 25px;
   transition: all 0.3s;
 }
-.home > .games > .link > img:hover {
+.home > .body > .games > .link > img:hover {
   width: 30vw;
   margin: 0;
 }
 
-.credit {
-  position: absolute;
-  bottom: 0;
+.home > .body > .credit {
   font-weight: 500;
 }
 @media screen and (max-width: 1023px) {
-  .home > .games {
+  .home > .body > .games {
     grid-template-columns: auto auto;
   }
-  .home > .games > .link > img {
+  .home > .body > .games > .link > img {
     width: calc(45vw - 50px);
     margin: 3.8px 25px;
   }
-  .home > .games > .link > img:hover {
+  .home > .body > .games > .link > img:hover {
     width: 45vw;
     margin: 0;
   }
 }
 @media screen and (max-width: 650px) {
-  .home > .games {
+  .home > .body > .games {
     grid-template-columns: auto;
   }
-  .home > .games > .link > img {
+  .home > .body > .games > .link > img {
     width: calc(90vw - 50px);
     margin: 3.7px 25px;
   }
-  .home > .games > .link > img:hover {
+  .home > .body > .games > .link > img:hover {
     width: 90vw;
     margin: 0;
   }

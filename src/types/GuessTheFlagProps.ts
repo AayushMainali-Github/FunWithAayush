@@ -1,4 +1,4 @@
-import { FlagData } from './FlagData';
+import { FlagData } from "./FlagData";
 
 export interface GuessProps {
   flagData: FlagData;

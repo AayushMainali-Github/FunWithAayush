@@ -1,6 +1,6 @@
 import React from 'react';
-import { LostProps } from '../../types/GuessTheFlagProps';
-import '../../Css/GuessTheFlag/Lost.css';
+import { LostProps } from '../../types/WhatTimeIsItProps';
+import '../../Css/WhatTimeIsIt/Lost.css';
 
 const Lost = (props: LostProps) => {
   //on play again click
@@ -9,9 +9,7 @@ const Lost = (props: LostProps) => {
   return (
     <div className="lost">
       <div className="desc">You chose the wrong option ☹️</div>
-      <div className="score">
-        Score: {props.score}/{props.totalFlags} ({((props.score / props.totalFlags) * 100).toFixed(2)}%)
-      </div>
+      <div className="desc">You guessed {props.score} questions correctly.</div>
       <button onClick={playAgain}>Play Again</button>
     </div>
   );

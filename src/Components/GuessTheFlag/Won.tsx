@@ -1,5 +1,5 @@
 import React from 'react';
-import { WonProps } from '../../types/Props';
+import { WonProps } from '../../types/GuessTheFlagProps';
 import '../../Css/GuessTheFlag/Won.css';
 
 const Won = (props: WonProps) => {
