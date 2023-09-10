@@ -5,6 +5,7 @@ import guesstheflag from '../../assets/guesstheflag.png';
 import areyouahuman from '../../assets/areyouahuman.png';
 import mysteryqrcode from '../../assets/mysteryqrcode.png';
 import whatsthetime from '../../assets/whatsthetime.png';
+import colorwars from '../../assets/colorwars.png';
 
 const Main = () => {
   return (
@@ -24,6 +25,9 @@ const Main = () => {
           </Link>
           <Link className="link" to="whatsthetime">
             <img src={whatsthetime} alt="what's the time" />
+          </Link>
+          <Link className="link" to="colorwars">
+            <img src={colorwars} alt="what's the time" />
           </Link>
         </div>
         <div className="credit">
