@@ -7,6 +7,7 @@ export interface GuessProps {
   update: (correct: boolean) => void;
   hour: number;
   minute: number;
+  score: number;
 }
 
 export interface WonProps {

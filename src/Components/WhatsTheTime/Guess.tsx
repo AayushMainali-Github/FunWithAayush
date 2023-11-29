@@ -30,7 +30,7 @@ const Guess = (props: GuessProps) => {
     }
     setButtons(tempButtons);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [hour, minute]);
+  }, [hour, minute, props.score]);
 
   return (
     <div className="guessWTIS">

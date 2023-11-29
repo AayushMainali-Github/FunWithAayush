@@ -28,7 +28,7 @@ const Guess = (props: GuessProps) => {
     }
     setButtons(tempButtons);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [props.length]);
+  }, [props.length,props.score]);
 
   return (
     <div className="guessWTIS">

@@ -68,7 +68,7 @@ const WhatTimeIsIt = () => {
           >
             <div style={{ width: '1px', height: `${length}cm`, background: 'black', rotate: `${turn}deg` }} />
           </div>
-          <Guess length={length} update={update} />
+          <Guess score={score} length={length} update={update} />
           <div style={{ textAlign: 'center', margin: '30px 25vw 5px', fontSize: '14px', fontWeight: '500' }}>
             Note: The length wont be exact if you measure it from a ruler as it is not possible to get physical dpi of
             your screen. But as you play more you will get familiar with the lengths of the line. Have fun!

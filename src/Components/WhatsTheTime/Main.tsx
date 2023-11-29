@@ -54,7 +54,7 @@ const WhatTimeIsIt = () => {
         <>
           <div className="head">What's The Time?</div>
           <div className="time">{(60 - timer / 10).toFixed(1)}s Left</div>
-          <Guess hour={time[0]} minute={time[1]} update={update} />
+          <Guess score={score} hour={time[0]} minute={time[1]} update={update} />
         </>
       )}
     </div>
