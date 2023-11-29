@@ -1,11 +1,11 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import '../../Css/Home/Main.css';
-import guesstheflag from '../../assets/guesstheflag.png';
-import areyouahuman from '../../assets/areyouahuman.png';
-import mysteryqrcode from '../../assets/mysteryqrcode.png';
-import whatsthetime from '../../assets/whatsthetime.png';
-import colorwars from '../../assets/colorwars.png';
+import { Link } from "react-router-dom";
+import "../../Css/Home/Main.css";
+import guesstheflag from "../../assets/guesstheflag.png";
+import areyouahuman from "../../assets/areyouahuman.png";
+import mysteryqrcode from "../../assets/mysteryqrcode.png";
+import whatsthetime from "../../assets/whatsthetime.png";
+import colorwars from "../../assets/colorwars.png";
+import measurethelines from "../../assets/measurethelines.png";
 
 const Main = () => {
   return (
@@ -27,7 +27,10 @@ const Main = () => {
             <img src={whatsthetime} alt="what's the time" />
           </Link>
           <Link className="link" to="colorwars">
-            <img src={colorwars} alt="what's the time" />
+            <img src={colorwars} alt="colorwars" />
+          </Link>
+          <Link className="link" to="measurethelines">
+            <img src={measurethelines} alt="measure the lines" />
           </Link>
         </div>
         <div className="credit">
